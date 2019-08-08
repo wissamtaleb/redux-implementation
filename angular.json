@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "redux-angular-exercise"
+    }
+  },
+  "defaultProject": "redux-angular-exercise",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
